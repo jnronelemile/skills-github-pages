@@ -11,5 +11,5 @@
 - [x] AWS
 - [x] Terraform
 - [x] Ansible
-- [ ] Github Actions
+- [x] Github Actions
 
